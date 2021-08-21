@@ -1,2 +1,3 @@
-# Thư viện
+# Thư viện SFML graphics
+
 # Mô tả
