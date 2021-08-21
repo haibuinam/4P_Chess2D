@@ -1,2 +1,2 @@
-# Chess
-thuật toán
+# Thư viện
+# Mô tả
