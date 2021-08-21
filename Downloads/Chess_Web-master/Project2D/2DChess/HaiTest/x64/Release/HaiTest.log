@@ -1,0 +1,460 @@
+﻿  HaiTest.cpp
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(53,2): warning C4091: 'typedef ': ignored on left of 'QuanCo' when no variable is declared
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(112,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(112,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(119,41): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(129,42): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(139,43): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(149,43): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(253,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(254,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(298,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(298,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(305,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(305,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(312,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(312,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(319,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(319,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(328,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(328,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(335,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(335,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(352,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(352,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(359,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(359,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(366,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(366,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(373,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(373,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(381,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(381,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(395,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(395,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(411,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(411,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(419,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(419,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(427,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(427,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(435,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(435,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(443,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(443,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(459,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(459,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(475,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(475,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(483,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(483,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(491,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(491,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(499,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(499,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(507,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(507,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(524,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(524,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(574,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(574,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(586,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(586,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(600,46): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(600,46): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(614,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(614,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(626,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(626,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(637,44): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(637,44): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(657,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(657,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(669,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(669,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(680,44): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(680,44): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(698,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(698,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(710,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(710,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(723,44): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(723,44): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\HaiTest\HaiTest.cpp(537,14): warning C4101: 'isMove': unreferenced local variable
+sfml-window-s.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_EnumDisplaySettingsW
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetAsyncKeyState
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetSystemMetrics
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCursorPos
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetCursorPos
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ClientToScreen
+sfml-window-s.lib(InputImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ScreenToClient
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ScreenToClient
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateBitmap
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_DeleteObject
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateDIBSection
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDC
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseDC
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_LoadCursorW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_LoadCursorW
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyCursor
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateIconIndirect
+sfml-window-s.lib(CursorImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_CopyIcon
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ChoosePixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_DescribePixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetPixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetPixelFormat
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_SwapBuffers
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateWindowExA
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyWindow
+sfml-window-s.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetDeviceCaps
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_TrackMouseEvent
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_TranslateMessage
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DispatchMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_PeekMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SendMessageW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegisterDeviceNotificationW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DefWindowProcW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CallWindowProcW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegisterClassW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_UnregisterClassW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateWindowExW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_FlashWindowEx
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowPos
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetKeyState
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_MapVirtualKeyW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ReleaseCapture
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetForegroundWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetForegroundWindow
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowTextW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetClientRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_AdjustWindowRect
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ShowCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_MapWindowPoints
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ClipCursor
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowLongW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowLongW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowLongPtrW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_SetWindowLongPtrW
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_GetWindowThreadProcessId
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_CreateIcon
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_DestroyIcon
+sfml-window-s.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp_ChangeDisplaySettingsW
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegCloseKey
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegOpenKeyExW
+sfml-window-s.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_RegQueryValueExW
+C:\Users\Hai Bui Nam\.ssh\Chess_Web\2DChess\x64\Release\HaiTest.exe : fatal error LNK1120: 64 unresolved externals
