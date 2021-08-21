@@ -1,0 +1,11 @@
+TODO list:
+
+I. Game:
+1. Đọc hiểu code 1v1 chess
+2. Tạo pseudo code cho 2v2 chess
+3. Code và test 2v2 chess
+
+
+II. Client-Server:
+1. Đọc hiểu về kết nối client-server
+2. Cài đặt các thư viện cần thiết và Code kết nối cho 4 client (game 4 ng)
