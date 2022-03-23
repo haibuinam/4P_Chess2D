@@ -3,8 +3,9 @@
 
 <center>
 
-<img src="https://j.gifs.com/x6zx6P.gif" alt=""  width="415" height="420">;&emsp;&emsp;
-<img src="https://j.gifs.com/ywAym6.gif" alt="" width="415" height="420"> 
+<img src="https://j.gifs.com/x6zx6P.gif" alt=""  width="622.5" height="630">;
+<img src="https://j.gifs.com/ywAym6.gif" alt="" width="622.5" height="630">
+  
 </center> 
 
 # Use SFML graphics
