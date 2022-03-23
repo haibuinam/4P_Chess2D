@@ -3,8 +3,8 @@
 
 <center>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://j.gifs.com/x6zx6P.gif" alt=""  width="415" height="420" >
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://j.gifs.com/ywAym6.gif" alt="" width="415" height="420"> 
+<img src="https://j.gifs.com/x6zx6P.gif" alt=""  width="415" height="420">;&emsp;&emsp;
+<img src="https://j.gifs.com/ywAym6.gif" alt="" width="415" height="420"> 
 </center> 
 
 # Use SFML graphics
